@@ -1,2 +1,2 @@
-# Hospital-Management-Html
-A decent Hospital Management System which is created using Html, css.
+# School-Management-Html
+A decent Sch Management System which is created using Html, css.
